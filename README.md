@@ -1,8 +1,7 @@
 # CTF_WRITEUP
 ## hello
 
-https://github.com/nguyenhuyuit0708/CTF_WRITEUP/crypto_train.md
-
+[Crypto_training](https://github.com/nguyenhuyuit0708/CTF_WRITEUP/blob/main/crypto_train.md)
 <br/>
 
 <hr/>
